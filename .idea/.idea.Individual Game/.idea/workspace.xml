@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fcf4d57-6753-4f4b-9dc7-cf0430e85c79" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/Elk Field Dress/Elk Field Dress/Assets/Crow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/Documents stuff/My GAME STUFF/Cow Milker/Assets/Scripts/DrawFingers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Elk Field Dress/Elk Field Dress/Assets/CuttingTesting/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/Documents stuff/My GAME STUFF/Cow Milker/Assets/Scripts/Hand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/streamInstance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/Documents stuff/My GAME STUFF/Procedural Anim Test/Assets/Scripts/leg.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MilkStream.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/BLENDER STUFF FOLDER/GameDev/Milkin/Assets/Scripts/Hand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MilkShooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrennonsFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/BLENDER STUFF FOLDER/GIMM 400/GooseGame/Assets/Scripts/animate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/BLENDER STUFF FOLDER/GIMM 400/GooseGame/Assets/Scripts/EnemyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/BLENDER STUFF FOLDER/GIMM 400/GooseGame/Assets/enemy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/BrennonsFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Utter.cs" />
+        <option value="$PROJECT_DIR$/Assets/MilkShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/streamInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/StreamParticle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MilkShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BrennonsFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MilkStream.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utter.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z8TnLzfneoGtpMxjOblN9pZuA6" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fcf4d57-6753-4f4b-9dc7-cf0430e85c79" name="Default Changelist" comment="" />
+      <created>1584219887408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584219887408</updated>
+      <workItem from="1584219891463" duration="6458000" />
+      <workItem from="1584313908373" duration="20385000" />
+      <workItem from="1584395744039" duration="13001000" />
+      <workItem from="1584430140340" duration="3290000" />
+      <workItem from="1584473122794" duration="651000" />
+      <workItem from="1584551168017" duration="621000" />
+      <workItem from="1584607109666" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
